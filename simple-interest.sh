@@ -1,3 +1,3 @@
 # Additional Authors:
-# - Author1 (@syed-mubashir)
-# - Author2 (@ahmad)
+# - Author1 (@Syed-Mubashir-Ahmad)
+
